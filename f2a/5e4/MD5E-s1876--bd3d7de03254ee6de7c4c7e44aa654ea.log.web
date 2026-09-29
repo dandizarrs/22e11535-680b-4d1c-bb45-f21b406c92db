@@ -1,0 +1,4 @@
+1790705298s 1 https://dandiarchive.s3.amazonaws.com/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/processing/transcriptomics/cell_by_gene/roi_id/0?versionId=COxAdMCdbO6L5L.u7udmqSmNm5uuTzZ8
+1790705298s 1 https://api.dandiarchive.org/api/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/files?prefix=processing%2Ftranscriptomics%2Fcell_by_gene%2Froi_id%2F0&download=true
+1790705299s 1 https://dandiarchive.s3.amazonaws.com/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/processing/transcriptomics/cell_types/roi_id/0?versionId=O1GzXJtUWPJJbsl9TnFPXp_dds5c6PND
+1790705299s 1 https://api.dandiarchive.org/api/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/files?prefix=processing%2Ftranscriptomics%2Fcell_types%2Froi_id%2F0&download=true

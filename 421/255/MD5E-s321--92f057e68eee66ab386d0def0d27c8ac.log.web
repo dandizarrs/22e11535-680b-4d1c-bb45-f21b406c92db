@@ -1,0 +1,4 @@
+1790705297s 1 https://dandiarchive.s3.amazonaws.com/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/processing/behavior/running/running_speed/data/.zarray?versionId=iKR_3iKi8W2AOS.hoHH9TVq9_39k3N4D
+1790705297s 1 https://api.dandiarchive.org/api/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/files?prefix=processing%2Fbehavior%2Frunning%2Frunning_speed%2Fdata%2F.zarray&download=true
+1790705298s 1 https://dandiarchive.s3.amazonaws.com/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/processing/behavior/running/running_speed_filtered/data/.zarray?versionId=M8pM40upyIFeXzRXhm64rwAsRPOD52Za
+1790705298s 1 https://api.dandiarchive.org/api/zarr/22e11535-680b-4d1c-bb45-f21b406c92db/files?prefix=processing%2Fbehavior%2Frunning%2Frunning_speed_filtered%2Fdata%2F.zarray&download=true
